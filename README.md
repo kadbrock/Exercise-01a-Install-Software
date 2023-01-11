@@ -9,4 +9,7 @@ Kadence Brock
 ## My github username is:
 kadbrock
 
+## My replit username is:
+kadbrock
+
 ## I have installed the software on my computer as part of the exercise
